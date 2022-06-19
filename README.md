@@ -17,7 +17,7 @@ Make short link by using Different Website API Keys
 
 #### API URL of Some sites are:
 
-|   Website        | API URL (Copy & Paste these URL)                         |          API KEY (Get API KEY From Site)    |
+|   Website        | API URL (Copy & Paste these URL in API_KEY var)          |          API KEY (Get API KEY From Site)    |
 |------------------|:---------------------------------------------------------|:--------------------------------------------|
 |  GPLink          |   `https://gplinks.in/api`                               |https://gplinks.in/member/tools/api          |
 |  Droplink        |   `https://droplink.co/api`                              |https://droplink.co/member/tools/api         |
