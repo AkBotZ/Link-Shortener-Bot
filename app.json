@@ -26,7 +26,7 @@
             "value": ""
         },
         "API_URL": {
-            "description": "API URL From Your Link Shortener Website, Examples are given here: https://github.com/AkBotZ/Link-Shortener-Bot",
+            "description": "Paste ONLY ONE API URL From Your Link Shortener Website, Examples are given here: https://github.com/AkBotZ/Link-Shortener-Bot",
             "value": ""
         },
         "BOT_TOKEN": {
