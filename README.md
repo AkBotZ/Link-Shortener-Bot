@@ -17,11 +17,11 @@ Make short link by using Different Website API Keys
 
 #### API URL of Some sites are:
 
-|   Website        |        API URL                   |
-|------------------|:---------------------------------|
-|  GPLink          |   `https://gplinks.in/api`       |
-|  Droplink        |   `https://droplink.co/api`      |
-|  TnLink          |   `https://tnlink.in/api`        |
-|  DuLink          |   `https://dulink.in/api`        |
-|  PdiskShortener  |   `https://pdiskshortener.in/api`|
-|  ClickFly        |   `https://clickyfly.com/api`    |
+|   Website        |        API URL                    |          API KEY                            |
+|------------------|:--------------------------------- |:--------------------------------------------|
+|  GPLink          |   `https://gplinks.in/api`        |https://gplinks.in/member/tools/api          |
+|  Droplink        |   `https://droplink.co/api`       |https://droplink.co/member/tools/api         |
+|  TnLink          |   `https://tnlink.in/api`         |https://tnlink.in/member/tools/api           |
+|  DuLink          |   `https://dulink.in/api`         |https://dulink.in/member/tools/api           |
+|  PdiskShortener  |   `https://pdiskshortener.com/api`|https://pdiskshortener.com/member/tools/api  |
+|  ClickyFly       |   `https://clickyfly.com/api`     |https://clickyfly.com/member/tools/api       |
