@@ -1,0 +1,50 @@
+{
+    "name": "Link Shortener Bot",
+    "description": "Make short link by different API Keys",
+    "keywords": [
+        "telegram",
+        "short link",
+	"GPLink",
+	"Droplink",
+	"Dulink",
+	"Tnlink",
+	"pdisklinkshortener"
+    ],
+    "website": "https://github.com/AkBotZ/Link-Shortener-Bot",
+    "repository": "https://github.com/AkBotZ/Link-Shortener-Bot",
+    "env": {
+        "API_HASH": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": ""
+        },
+        "API_ID": {
+            "description": "Get this value from https://my.telegram.org",
+            "value": ""
+        },
+        "API_KEY": {
+            "description": "Get API key from your Website",
+            "value": ""
+        },
+        "API_URL": {
+            "description": "API URL From Your Link Shortener Website, Examples are given here: https://github.com/AkBotZ/Link-Shortener-Bot",
+            "value": ""
+        },
+        "BOT_TOKEN": {
+            "description": "Your bot token, Get it from @Botfather",
+            "value": ""
+        }
+    },
+    "addons": [],
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "stack": "heroku-22"
+}
