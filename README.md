@@ -24,4 +24,6 @@ Make short link by using Different Website API Keys
 |  TnLink          |   `https://tnlink.in/api`                                |https://tnlink.in/member/tools/api           |
 |  DuLink          |   `https://dulink.in/api`                                |https://dulink.in/member/tools/api           |
 |  PdiskShortener  |   `https://pdiskshortener.com/api`                       |https://pdiskshortener.com/member/tools/api  |
+|  MdiskShortener  |   `https://mdiskshortner.link/api`                       |https://mdiskshortner.link/member/tools/api  |
+|  EasySky         |   `https://easysky.in/api`                               |https://easysky.in/members/tools/api         |
 |  ClickyFly       |   `https://clickyfly.com/api`                            |https://clickyfly.com/member/tools/api       |
