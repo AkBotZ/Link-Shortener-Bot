@@ -1,7 +1,7 @@
 # Link Shortener
 Make short link by using Different Website API Keys
 
-<a href="https://www.buymeacoffee.com/AKBotZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Server Cost" style="height: 60px !important;width: 217px !important;" ></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="AKBotZ" data-color="#5F7FFF" data-emoji="🖥️"  data-font="Cookie" data-text="Buy me a server cost" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 ### Installation
 
