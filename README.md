@@ -1,5 +1,8 @@
 # Link Shortener
 Make short link by using Different Website API Keys
+
+<a href="https://www.buymeacoffee.com/AKBotZ" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 ### Installation
 
 #### The Easy Way
